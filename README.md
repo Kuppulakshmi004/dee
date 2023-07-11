@@ -1,7 +1,10 @@
 <html>
   <head>
 <title>
-  <p>hello github</p>
+   page
 </title>
 </head>
+  <body>
+    <h1>github</h1>
+  </body>
 </html>
